@@ -51,8 +51,8 @@
     --yt-spec-call-to-action-inverse: #065fd4;
     --yt-spec-brand-icon-active: #fff;
     --yt-spec-brand-icon-inactive: #909090;
-    --yt-spec-brand-button-background: var(--red) !important;
-    --yt-spec-brand-link-text: var(--red) !important;
+    --yt-spec-brand-button-background: #E96379;
+    --yt-spec-brand-link-text: #E96379;
     --yt-spec-filled-button-focus-outline: rgba(255, 255, 255, 0.7);
     --yt-spec-call-to-action-button-focus-outline: rgba(62, 166, 255, 0.3);
     --yt-spec-brand-text-button-focus-outline: rgba(255, 78, 69, 0.3);
@@ -121,14 +121,14 @@
   }
 
   .sbpqs_a {
-      color: var(--purple) !important;
+      color: #988BC7;
   }
 
   .sbsb_i {
-      color: var(--cyan) !important;
+      color: #78D1E1;
   }
 
   .sbfl_b {
-       color: var(--cyan) !important;
+       color: #78D1E1;
   }
   }
